@@ -4,7 +4,7 @@
 ### TestCase Importer for Azure DevOps
 ---
 
-TestCase Importer Extension can help you easily import testcases to your project. It really helps when you want to migrate testcase from other tools or import old testcase from excel.
+TestCase Importer Extension can help you import testcases to your project more easily. It really helps when you want to migrate testcase from other tools or import old testcase from excel.
 
 
 ### Key Feature
@@ -17,6 +17,52 @@ TestCase Importer Extension can help you easily import testcases to your project
 
 ### User Guide
 ---
+
+1. Click "Export" on the test suite right context menu.
+
+![testcase-export.png](images/en-testcase-export-01.png)
+
+2. It will list all testcases of selected test suite.
+
+![testcase-list.png](images/en-testcase-list.png)
+
+3. Export all testcases to excel with "Export Button" .
+
+![testcase-export.png](images/en-testcase-export.png)
+
+4. Testcases in Excel show as below：
+
+![testcase-in-excel.png](images/en-testcase-in-excel.png)
+
+5. Edit testcases in Excel：
+
+![testcase-edit.png](images/en-testcase-edit.png)
+
+
+6. Import testcases from Excel with "Import Button"：
+
+![testcase-import.png](images/en-testcase-import.png)
+
+7. Check the informations and click "Import Button"：
+
+![testcase-load.png](images/en-testcase-load-and-import.png)
+
+
+8. Import result show as below：
+
+![testcase-load.png](images/en-testcase-import-result.png)
+
+9. You can add new testcases in the same time：
+
+![testcase-add.png](images/en-testcase-add.png)
+
+10. Check the new testcases and click "Import Button"：
+
+![testcase-add-info.png](images/en-test-case-add-info.png)
+
+11. Import result show as below：
+
+![testcase-add-result.png](images/en-testcase-add-result.png)
 
 
 
@@ -65,6 +111,52 @@ Leansoft dedicated in DevOps consulting, implementation, system integration, ext
 
 ### 使用说明
 ---
+
+1. 在测试套件右键菜单中，点击 “Export” 按钮：
+
+![testcase-export.png](images/testcase-export-01.png)
+
+2. 工具会自动列出当前测试套件的相关信息，以及包含的测试用例列表，每个测试用例的信息，测试步骤等等
+
+![testcase-list.png](images/testcase-list.png)
+
+3. 点击 “Export” 可以将测试用例导出到本地的Excel
+
+![testcase-export.png](images/testcase-export.png)
+
+4. 导出到Excel后如下图所示：
+
+![testcase-in-excel.png](images/testcase-in-excel.png)
+
+5. 可以通过Excel修改测试用例，以及测试步骤，如下图所示：
+
+![testcase-edit.png](images/testcase-edit.png)
+
+
+6. 修改完成后，导入Excel，如下图所示：
+
+![testcase-import.png](images/testcase-import.png)
+
+7. 加载Excel，确认信息，并导入，如下图所示：
+
+![testcase-load.png](images/testcase-load-and-import.png)
+
+
+8. 测试用例导入后，，如下图所示：
+
+![testcase-load.png](images/testcase-import-result.png)
+
+9. 同时也可以在Excel里添加行的测试用例，操作如下：
+
+![testcase-add.png](images/testcase-add.png)
+
+10. 查看新增测试用例的数据信息是否正确，如下图所示：
+
+![testcase-add-info.png](images/test-case-add-info.png)
+
+11. 导入完成后，如下图所示：
+
+![testcase-add-result.png](images/testcase-add-result.png)
 
 
 ###  未来功能
